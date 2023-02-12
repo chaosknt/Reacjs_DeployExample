@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Reactjs_ListComparer/static/js/main.1ceebd33.chunk.js",
+    "main.js.map": "/Reactjs_ListComparer/static/js/main.1ceebd33.chunk.js.map",
+    "runtime-main.js": "/Reactjs_ListComparer/static/js/runtime-main.f52fb344.js",
+    "runtime-main.js.map": "/Reactjs_ListComparer/static/js/runtime-main.f52fb344.js.map",
+    "static/js/2.23cfa817.chunk.js": "/Reactjs_ListComparer/static/js/2.23cfa817.chunk.js",
+    "static/js/2.23cfa817.chunk.js.map": "/Reactjs_ListComparer/static/js/2.23cfa817.chunk.js.map",
+    "index.html": "/Reactjs_ListComparer/index.html",
+    "static/js/2.23cfa817.chunk.js.LICENSE.txt": "/Reactjs_ListComparer/static/js/2.23cfa817.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f52fb344.js",
+    "static/js/2.23cfa817.chunk.js",
+    "static/js/main.1ceebd33.chunk.js"
+  ]
+}
