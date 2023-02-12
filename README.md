@@ -14,3 +14,16 @@ Convert an upload file to Json.
 ### Considerations
 
 If a file have 2000 rows or more, the conversation can take a few seconds
+
+
+
+### Deploy:
+
+to prevent 404 error on js files after deploy do:
+
+from /docs/index.html change all href that they aren't a CDN from the current value, to new ./
+
+example:
+
+from <link rel="icon" href=".favicon.ico" /> or <link rel="icon" href="./repo-name/favicon.ico" />
+to  <link rel="icon" href="./favicon.ico" />
