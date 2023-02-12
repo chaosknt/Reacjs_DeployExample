@@ -21,7 +21,7 @@ If a file have 2000 rows or more, the conversation can take a few seconds
 
 To prevent 404 error on js files after deploy do: </br>
 
-From /docs/index.html change all href that they aren't a CDN from the current value, to new ./ </br>
+From `/docs/index.html` change all href that they aren't a CDN from the current value, to new ./ </br>
 
 example:
 
